@@ -1,0 +1,30 @@
+.titulo{
+    font-family: 'Sarala', sans-serif;
+    color: #ECD6C4;
+    font-size: 24px; 
+    font-weight: 400;
+    margin-left: 7%;
+    padding: 10px;
+ }
+h3{
+   font-family: 'Sarala', sans-serif;
+   color: #ECD6C4;
+   margin-left: 7%;
+   margin-right: 20%;
+   margin-bottom: 5%;
+ }
+ .imgeu{
+    border-radius: 90%;
+    padding-top: 40px;
+    padding-right: 60px;
+    height: 350px;
+ }
+ #so{
+    font-family: 'Righteous', cursive;
+    color: #ECD6C4;
+    font-size: 64px;
+    font-weight: 400;
+    padding-left: 7%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+ }
